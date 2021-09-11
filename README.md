@@ -8,7 +8,7 @@ I analyze the students_complete.csv data to look for evidence of academic dishon
 
 The following section looks at the impact of removing math and reading scores for ninth graders at Thomas High School. 
 
-##How is the district summary affected?
+## How is the district summary affected?
 
 The district summary changed only marginally after removing math and reading scores of ninth graders at Thomas High School as can bee seen in the following two charts. Noteworthy changes are:
 
@@ -23,7 +23,7 @@ District summary before removing math and reading scores of ninth graders at Tho
 
 ![District summary original](/Resources/District_summary_old.png) 
 
-##How is the school summary affected?
+## How is the school summary affected?
 
 The school summary did not change in a statistically significant manner after removing math and reading scores of ninth graders at Thomas High School as can bee seen in the following two charts. Math and reading scores changed for Thomas High School only as the new table looks at 10th to 12th grade students and excludes 9th grade. 
 
@@ -34,7 +34,7 @@ School summary before removing math and reading scores of ninth graders at Thoma
 
 ![School summary old](/Resources/school_summary_old.png) 
 
-##How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Removing math and reading scores of ninth graders at Thomas High School did not significantly alter Thomas High School's performance relative to other schools. Both before and after the removal of 9th grader scores, Thomas High School would have been ranked #2 in terms of overall passing rate. Top school ranking after removal: 
 
@@ -43,7 +43,7 @@ Removing math and reading scores of ninth graders at Thomas High School did not 
 Top schools original list:
 ![Top Schools](/Resources/Top_schools_old.png)
 
-##How does replacing the ninth-grade scores affect the following?
+## How does replacing the ninth-grade scores affect the following?
 
 Replacing the ninth-grade scores did not alter scores for 10th to 12th graders Thomas High School. Ninth grader scores were replaced by "nan". The following tables show math and reading scores by grade for each school:
 
@@ -68,7 +68,7 @@ The average scores by school type were not impacted by removing math and reading
 ![scores by type](/Resources/scores_by_type.png)
 
 
-#Summary School District Analysis and Conclusion
+# Summary School District Analysis and Conclusion
 
 The following are the four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaN:
 
